@@ -30,4 +30,4 @@ The file contains ccccccccccccccccccccccccc:
      xxxxxx 
 
 # Resources
-Resources utilized for support with debugging, and clarifications of code: Xpert Learning and Gemini AI where needed.
+Resources utilized for support with debugging, and clarifications of code: Xpert Learning and Gemini AI where needed. 
